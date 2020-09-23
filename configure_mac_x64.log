@@ -1,0 +1,4 @@
+Configure source code has been updated, checking time stamps
+Running generated-configure.sh
+configure: error: unrecognized options: --disable-warnings-as-errors
+configure exiting with result code 1
